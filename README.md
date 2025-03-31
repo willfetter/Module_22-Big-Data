@@ -1,18 +1,18 @@
-# Module_22-Big-Data
+# Module_22- Home Sales
 
- Module 21 - Home Sales - By William Fetter
+ Module 22 - Big-Data - By William Fetter
 
 # Description
 This assignment is to use knowledge of SparkSQL to determine key metrics about home sales data. Then use Spark to create temporary views, partition the data, cache and uncache a temporary table, and verify that the table has been uncached.
 
 # Instructions for Use
-Launch the file "Home_Sales.ipynb" (found within main "Module_22-Big-Data/" github directory) using Google Collaboratory. 
+Launch the file "Home_Sales.ipynb" (found within main "Module_22-Home-Sales/" github directory) using Google Collaboratory. 
 
 # Input Files
 The initial input files for the assignment are located within the "Home_Sales_starter_code_colab.ipynb" found within the "Starter Code/" github directory.
 
 # OutPut Files
-The resulting output file for the assignment is the "Home_Sales.ipynb", "AlphabetSoupCharity_Optimization.ipynb" located within the main "Module_22-Big Data/" github directory. 
+The resulting output file for the assignment is the "Home_Sales.ipynb", "AlphabetSoupCharity_Optimization.ipynb" located within the main "Module_22-Home_Sales/" github directory. 
 
 # Instructions
 
